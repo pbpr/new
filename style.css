@@ -3,7 +3,7 @@ body{
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-image: url(https://drive.google.com/file/d/1flHFXOrXYx3XPDKIkY_ygbdBM1itD6a6/view?usp=sharing) no-repeat;
+  background: url(rising.jpeg) no-repeat;
   background-size: cover;
 }
 .login-box{
